@@ -1,2 +1,2 @@
 # CCPC dataset
-To be updated
+The corresponding descriptions and metadata for this dataset need to be updated.
